@@ -2,6 +2,7 @@
 🛒 FastKart E-Commerce Database System
 An end-to-end relational database system built to manage the operations of FastKart, an online retail store. This project includes schema design, SQL queries, and data management solutions tailored for core e-commerce functions like inventory control, customer orders, payment tracking, and vendor management.
 
+
 📌 Project Overview
 The FastKart E-Commerce Database System is designed to support a scalable and efficient backend for a modern e-commerce platform. It models real-world operations of an online retail store, providing structured solutions for:
 
@@ -12,6 +13,8 @@ Product inventory and vendor handling
 Payment and shipment tracking
 
 Admin and seller access roles
+
+
 
 🗃️ Key Features
 Relational Database Schema
@@ -39,6 +42,8 @@ Revenue and sales reporting
 
 Vendor product management
 
+
+
 🧱 Database Structure
 Key Tables:
 
@@ -52,6 +57,8 @@ Payments: Tracks transactions and billing
 
 Vendors: Links suppliers to their product listings
 
+
+
 🛠️ Technologies Used
 Database: MySQL / PostgreSQL
 
@@ -60,6 +67,8 @@ Tools: MySQL Workbench, pgAdmin, SQL Server
 Languages: SQL, ERD tools
 
 Design: Entity-Relationship Diagram (ERD), normalization up to 3NF
+
+
 
 📈 Learning Outcomes
 Designed and implemented a relational database for real-world e-commerce use
