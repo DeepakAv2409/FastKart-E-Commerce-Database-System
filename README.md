@@ -6,13 +6,10 @@ An end-to-end relational database system built to manage the operations of FastK
 **📌 Project Overview**
 The FastKart E-Commerce Database System is designed to support a scalable and efficient backend for a modern e-commerce platform. It models real-world operations of an online retail store, providing structured solutions for:
 
-Customer and order management
-
-Product inventory and vendor handling
-
-Payment and shipment tracking
-
-Admin and seller access roles
+* Customer and order management
+* Product inventory and vendor handling
+* Payment and shipment tracking
+* Admin and seller access roles
 
 
 
